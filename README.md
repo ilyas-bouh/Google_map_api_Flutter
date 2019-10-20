@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+
+![alt text](https://images.pexels.com/photos/415693/pexels-photo-415693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
